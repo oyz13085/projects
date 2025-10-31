@@ -6,7 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         double balance = 174.56;
         boolean isRunning = true;
         int choice;
